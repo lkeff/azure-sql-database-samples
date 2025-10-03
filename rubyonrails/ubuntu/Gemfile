@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '7.1.5.2'
+gem 'rails', '5.0.0'
 # Use Tiny_TDS for driver
 gem 'tiny_tds'
 # Use activerecord-sqlserver-adapter for ActiveRecord adapter
